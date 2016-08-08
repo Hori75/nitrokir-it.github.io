@@ -4,4 +4,4 @@ title: Projects
 permalink: /projects/
 ---
 
-Few of NitroKIR IT's projects.
+Proyek yang sedang dikerjakan
