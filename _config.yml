@@ -11,8 +11,8 @@ paginate: 10
 paginate_path: "page:num"
 # Build settings
 markdown: kramdown
-gems: [jekyll-paginate, jekyll-gist, pygments.rb, github-pages]
-highlighter: pygments
+gems: [jekyll-paginate, jekyll-gist, github-pages]
+highlighter: rouge
 sass:
   sass_dir: _sass
   style: :compressed
