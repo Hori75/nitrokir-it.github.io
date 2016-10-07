@@ -5,4 +5,4 @@ color: indigo
 permalink: /about/
 ---
 
-NitroKIR IT is a division of NitroKIR that computes and creates software.
+NitroKIR IT is a division of NitroKIR that embraces information technology to bring innovation forward.
