@@ -6,4 +6,4 @@ categories: others
 color: lime
 ---
 
-NitroKIR IT akan memulai proyek! Nantikan update dari website ini.
+NitroKIR IT akan memulai proyek. Website ini akan diupdate dengan berbagai kegiatan kami.
